@@ -7,4 +7,4 @@ https://disease.sh
 database: google firebase
 
 # run
-npm run
+npm start
